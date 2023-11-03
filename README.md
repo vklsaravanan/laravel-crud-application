@@ -39,7 +39,7 @@ Before you begin, make sure you have the following prerequisites installed on yo
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/laravel-crud-microservices.git
+   git clone https://github.com/vklsaravanan/laravel-crud-application.git
    cd laravel-crud-microservices
    ```
 
