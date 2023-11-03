@@ -89,7 +89,7 @@ This Laravel application integrates with microservices from another Java dynamic
 
 ## Author
 
-- **Your Name**
-  - GitHub: [Your GitHub Profile](https://github.com/vklsaravanan)
+  - GitHub profile: [vkl saravanan](https://github.com/vklsaravanan)
+  - Site: [vklsaravanan.github.io](https://vklsaravanan.github.io)
 
 Feel free to contribute to this project, report issues, or provide feedback. Thank you for using this Laravel CRUD application with microservices!
