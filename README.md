@@ -73,7 +73,7 @@ Before you begin, make sure you have the following prerequisites installed on yo
 
 8. Access the application in your web browser at `http://localhost:8000`.
 
-9. If you want to do crud function follow this repository  [java API repository](https://github.com/vklsaravanan/Java-crud-api-using-mysql) Instructions.
+9. If you want to do crud oprations follow this repository ( [java API repository](https://github.com/vklsaravanan/Java-crud-api-using-mysql) ) Instructions.
 
 ## Usage
 
@@ -85,11 +85,11 @@ You can use this Laravel CRUD application to perform the following actions:
 
 ## Microservices Integration
 
-This Laravel application integrates with microservices from another Java dynamic web application. To fully utilize the microservices, please refer to the documentation in the Java dynamic web application repository: [Java Dynamic Web Application Repository](https://github.com/your-username/java-dynamic-webapp).
+This Laravel application integrates with microservices from another Java dynamic web application. To fully utilize the microservices, please refer to the documentation in the Java dynamic web application repository: [Java Dynamic Web Application Repository](https://github.com/vklsaravanan/Java-crud-api-using-mysql).
 
 ## Author
 
 - **Your Name**
-  - GitHub: [Your GitHub Profile](https://github.com/your-username)
+  - GitHub: [Your GitHub Profile](https://github.com/vklsaravanan)
 
 Feel free to contribute to this project, report issues, or provide feedback. Thank you for using this Laravel CRUD application with microservices!
